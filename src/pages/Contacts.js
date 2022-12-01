@@ -15,7 +15,11 @@ const Contacts = () => {
                             <a href="tel:+79051234567">+7 (905) 123-45-67</a>
                         </p>
                         <p>
-                            <a href="https://t.me/dd_kaba" target="_blank">
+                            <a
+                                href="https://t.me/dd_kaba"
+                                target="_blank"
+                                rel="noreferrer"
+                            >
                                 https://t.me/dd_kaba
                             </a>
                         </p>
